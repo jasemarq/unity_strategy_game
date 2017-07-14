@@ -1,0 +1,46 @@
+{
+	"Countries": 
+	[
+		{
+			"id": "0",
+			"name": "Afghanistan",
+			"population": "32564342",
+			"infected": "32564342",
+			"removed": "0",
+			"baseResistance":"1.0",
+			"climate": "arid",
+			"isInfect": "false"
+		},
+		{
+			"id": "1",
+			"name": "Albania",
+			"population": "3029278",
+			"infected": "0",
+			"removed": "0",
+			"baseResistance":"1.0",
+			"climate": "temperate",
+			"isInfect": "false"
+		},
+		{
+			"id": "2",
+			"name": "Algeria",
+			"population": "39542166",
+			"infected": "0",
+			"removed": "0",
+			"baseResistance":"1.0",
+			"climate": "arid",
+			"isInfect": "false"
+		},
+		{
+			"id": "3",
+			"name": "Andorra",
+			"population": "85580",
+			"infected": "0",
+			"removed": "0",
+			"baseResistance":"1.0",
+			"climate": "tropical",
+			"isInfect": "false"
+		}
+
+	]
+}

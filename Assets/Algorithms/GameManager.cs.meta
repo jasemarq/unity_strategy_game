@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e63b391bb10f64087832f9d5fc1874bf
+timeCreated: 1469147827
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - regionName: {instanceID: 0}
+  - infectedValue: {instanceID: 0}
+  - GlyphxOneNF: {fileID: 12800000, guid: bf924ca39cfed4e94b3e4b52721462a7, type: 3}
+  - gly: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

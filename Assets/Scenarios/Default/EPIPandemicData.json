@@ -1,0 +1,19 @@
+﻿{
+	"Pandemic":
+	[
+	{
+		"pandemic_id": "1",
+		"symptom": "Headache",
+		"desc": "Regions of pain at top of skull",
+		"cost": "2",
+		"heirarchy": "",
+	},
+
+
+
+
+
+
+
+
+}

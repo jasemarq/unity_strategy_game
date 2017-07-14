@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 720599aee0ff245c485fbd66c23fdf57
+timeCreated: 1469339709
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: R140G255B255
+    21300002: R255G255B140
+    21300004: R255G232B255
+    21300006: R232G232B255
+    21300008: R232G255B232
+    21300010: R255G232B232
+    21300012: R209G255B255
+    21300014: R255G0B209
+    21300016: R0G0B232
+    21300018: R186G255B0
+    21300020: R186G0B0
+    21300022: R23G232B23
+    21300024: R46G186B255
+    21300026: R186G186B23
+    21300028: R0G46B0
+    21300030: R163G0B163
+    21300032: R0G23B69
+    21300034: R255G69B0
+    21300036: R163G163B255
+    21300038: R92G0B0
+    21300040: R140G140B23
+    21300042: R92G92B255
+    21300044: R23G232B186
+    21300046: R23G23B23
+    21300048: R69G140B140
+    21300050: R186G186B186
+    21300052: R92G23B92
+    21300054: R140G92B92
+    21300056: R0G92B0
+    21300058: R255G0B0
+    21300060: R0G255B0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Web
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R140G255B255
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 343
+        width: 291
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R255G255B140
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 330
+        width: 283
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R255G232B255
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 85
+        width: 543
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R232G232B255
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 347
+        width: 149
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R232G255B232
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 217
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R255G232B232
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 228
+        width: 106
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R209G255B255
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 71
+        width: 139
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R255G0B209
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 258
+        width: 196
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R0G0B232
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 51
+        width: 176
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R186G255B0
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 253
+        width: 112
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R186G0B0
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 198
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R23G232B23
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 85
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R46G186B255
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 371
+        width: 258
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R186G186B23
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 214
+        width: 191
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R0G46B0
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 70
+        width: 195
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R163G0B163
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 365
+        width: 172
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R0G23B69
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 196
+        width: 156
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R255G69B0
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 12
+        width: 191
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R163G163B255
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 385
+        width: 105
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R92G0B0
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 249
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R140G140B23
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 136
+        width: 135
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R92G92B255
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 10
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R23G232B186
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 396
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R23G23B23
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 22
+        width: 310
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R69G140B140
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 260
+        width: 837
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R186G186B186
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 34
+        width: 206
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R92G23B92
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 48
+        width: 203
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R140G92B92
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 36
+        width: 279
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R0G92B0
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 386
+        width: 46
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R255G0B0
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 270
+        width: 215
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: R0G255B0
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 54
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
